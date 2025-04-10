@@ -1,5 +1,5 @@
 # Detection-and-Response
-Complited alert ticket | Incident handlr's journal
+Complited alert ticket 
 
 
 Scenario 
